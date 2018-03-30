@@ -1,0 +1,4 @@
+com\example\easynotes\repository\TaskRepository.class
+com\example\easynotes\EasyNotesApplication.class
+com\example\easynotes\controller\TaskController.class
+com\example\easynotes\model\Task.class
